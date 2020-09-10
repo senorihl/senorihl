@@ -19,18 +19,6 @@ Not inclined to unicorns stuff I'd rather look at the starts and hope that we wi
 
 ---
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=senorihl.senorihl)
-
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/senorihl/senorihl/issues/new?assignees=senorihl&labels=question&template=ask-me-anything.md&title=Ask%3A+)
-
-[![Twitter](https://img.shields.io/badge/twitter-@senorihl-1da1f2)](https://twitter.com/senorihl)
-[![Facebook](https://img.shields.io/badge/facebook-senorihl-3b5998)](https://www.facebook.com/senorihl)
-[![LinkedIn](https://img.shields.io/badge/linkedin-senorihl-0077b5)](https://www.linkedin.com/in/senorihl)
-
-[![Twitch](https://img.shields.io/badge/twitch-senorihl-6441a5)](https://www.twitch.tv/senorihl)
-[![Discord](https://img.shields.io/badge/discord-Senorihl%232031-7289da)](https://discord.com/channels/@me/366190769142366210)
-[![Steam](https://img.shields.io/badge/steam-senorihl-00adee)](https://steamcommunity.com/id/senorihl)
-[![D&D Beyond](https://img.shields.io/badge/D%26D%20Beyond-senorihl-E40712)](https://www.dndbeyond.com/members/Senorihl)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=senorihl&count_private=true)
-
+| [![Twitter](https://img.shields.io/badge/twitter-@senorihl-1da1f2)](https://twitter.com/senorihl)<br>[![Facebook](https://img.shields.io/badge/facebook-senorihl-3b5998)](https://www.facebook.com/senorihl)<br>[![LinkedIn](https://img.shields.io/badge/linkedin-senorihl-0077b5)](https://www.linkedin.com/in/senorihl)<br><br>[![Twitch](https://img.shields.io/badge/twitch-senorihl-6441a5)](https://www.twitch.tv/senorihl)<br>[![Discord](https://img.shields.io/badge/discord-Senorihl%232031-7289da)](https://discord.com/channels/@me/366190769142366210)<br>[![Steam](https://img.shields.io/badge/steam-senorihl-00adee)](https://steamcommunity.com/id/senorihl)<br>[![D&D Beyond](https://img.shields.io/badge/D%26D%20Beyond-senorihl-E40712)](https://www.dndbeyond.com/members/Senorihl)  | ![github stats](https://github-readme-stats.vercel.app/api?username=senorihl&count_private=true)  |
+| :-- |---|
+| ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=senorihl.senorihl) | [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/senorihl/senorihl/issues/new?assignees=senorihl&labels=question&template=ask-me-anything.md&title=Ask%3A+) |
