@@ -13,7 +13,7 @@ Not inclined to unicorns stuff I'd rather look at the starts and hope that we wi
 
 - 🔭 I’m currently working on the websites of the french newspapers [Le Monde](https://www.lemonde.fr/) and [L'Obs](https://www.nouvelobs.com/)
 - 🌱 I’m currently learning [React Native](https://reactnative.dev/)
-- 💬 Ask me by opening an [issue](https://github.com/senorihl/senorihl/issues/new?assignees=senorihl&labels=question&template=ask-me-anything.md&title=Ask%3A+)
+- 💬 Ask me anything by opening an [issue](https://github.com/senorihl/senorihl/issues/new?assignees=senorihl&labels=question&template=ask-me-anything.md&title=Ask%3A+)
 - 📫 How to reach me: [personnaly](mailto:senorihl+github@gmail.com?subject=Hey%20there%20%F0%9F%91%8B%20I%27ve%20seen%20your%20bio%20on%20your%20GitHub%20profile%20and%20I%20would%20like%20to%20contact%20you%20%E2%9C%89%EF%B8%8F) or [professionaly](mailto:rrenaux+github@idobs.net?subject=Hey%20there%20%F0%9F%91%8B%20I%27ve%20seen%20your%20bio%20on%20your%20GitHub%20profile%20and%20I%20would%20like%20to%20contact%20you%20%E2%9C%89%EF%B8%8F)
 - ⚡ Fun fact: I'm into tabletop rpgs 🎲
 
