@@ -15,6 +15,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using variant in React Native 🤖🍏](https://senorihl.github.io/2021/03/react-native-declinations/)
+- [Elections in France — My contribution for LeMonde.fr](https://senorihl.github.io/2020/03/elections-in-france-my-contribution-for-lemonde-fr/)
+- [Electron × TypeScript × React × TypeORM](https://senorihl.github.io/2019/03/electron-typescript-react-typeorm/)
+- [Document Oriented Development](https://senorihl.github.io/2019/02/document-oriented-development/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
