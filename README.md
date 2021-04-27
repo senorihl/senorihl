@@ -4,22 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senorihl&label=Profile%20views&color=0e75b6&style=flat" alt="senorihl" /> </p>
 
 - 🔭 I’m currently working on the websites of the french newspapers [Le Monde](https://www.lemonde.fr/) and [L'Obs](https://www.nouvelobs.com/)
-
 - 🌱 I’m currently learning **React Native**
-
 - 👨‍💻 All of my projects are available at [https://senorihl.github.io/projects#projects](https://senorihl.github.io/projects#projects)
-
 - 📝 I regularly write articles on [https://senorihl.github.io/](https://senorihl.github.io/)
-
 - 📄 Know about my experiences [https://senorihl.github.io/aboutme#about-me](https://senorihl.github.io/aboutme#about-me)
-
 - 💬 Ask me anything by opening an [issue](https://github.com/senorihl/senorihl/issues/new?assignees=senorihl&labels=question&template=ask-me-anything.md&title=Ask%3A+)
-
 - 📫 How to reach me: [personnaly](mailto:senorihl+github@gmail.com?subject=Hey%20there%20%F0%9F%91%8B%20I%27ve%20seen%20your%20bio%20on%20your%20GitHub%20profile%20and%20I%20would%20like%20to%20contact%20you%20%E2%9C%89%EF%B8%8F) or [professionaly](mailto:rrenaux+github@idobs.net?subject=Hey%20there%20%F0%9F%91%8B%20I%27ve%20seen%20your%20bio%20on%20your%20GitHub%20profile%20and%20I%20would%20like%20to%20contact%20you%20%E2%9C%89%EF%B8%8F)
-
 - ⚡ Fun fact **I'm into tabletop rpgs 🎲**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
