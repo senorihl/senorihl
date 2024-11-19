@@ -15,10 +15,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Technical implementation of SEO best practices](https://senorihl.github.io/2024/10/seo-implementation/)
-- [Using variant in React Native 🤖🍏](https://senorihl.github.io/2021/03/react-native-declinations/)
-- [Elections in France — My contribution for LeMonde.fr](https://senorihl.github.io/2020/03/elections-in-france-my-contribution-for-lemonde-fr/)
-- [Electron × TypeScript × React × TypeORM](https://senorihl.github.io/2019/03/electron-typescript-react-typeorm/)
+- [Technical implementation of SEO best practices](http://senorihl.github.io/2024/10/seo-implementation/)
+- [Using variant in React Native 🤖🍏](http://senorihl.github.io/2021/03/react-native-declinations/)
+- [Elections in France — My contribution for LeMonde.fr](http://senorihl.github.io/2020/03/elections-in-france-my-contribution-for-lemonde-fr/)
+- [Electron × TypeScript × React × TypeORM](http://senorihl.github.io/2019/03/electron-typescript-react-typeorm/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
