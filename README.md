@@ -90,7 +90,7 @@
             alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img
             src="https://simpleicons.org/icons/react.svg"
             alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img
-            src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a
+            src="https://simpleicons.org/icons/react.svg" alt="reactnative" width="40" height="40"/> </a> <a
             href="https://redis.io" target="_blank"> <img
             src="https://simpleicons.org/icons/redis.svg"
             alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img
